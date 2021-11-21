@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: test-common-db
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.test
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/test-parent/test-common-db
+Created-By: Maven Integration for Eclipse
+
